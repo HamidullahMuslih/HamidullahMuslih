@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HamidullahMuslih
 - 👀 I’m interested in DevOps, Reinforcement Learning
 - 🌱 I’m currently learning many things :)
-- 💞️ I’m looking to collaborate on how to become sucessful
+- 💞️ I’m looking to collaborate on how to become idk
 - 📫 How to reach me hamidullahmuslih@gmail.com
 
 <!---
