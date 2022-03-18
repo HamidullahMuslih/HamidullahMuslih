@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HamidullahMuslih
 - 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning many things :)
 - 💞️ I’m looking to collaborate in enterprise projects.
 - 📫 How to reach me hamidullahmuslih@gmail.com
 
